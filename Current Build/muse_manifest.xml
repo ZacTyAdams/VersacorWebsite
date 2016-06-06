@@ -1,0 +1,200 @@
+<manifest alg="2" build="2015.0.2.310" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1448982044397" domain="versacor.net">
+  <folder name="css">
+    <file name="site_global.css" crc="334854181"/>
+    <file name="master_a-master.css" crc="4291366091" ref="index:environmental-stewardship:about:commercial-pest-management:health-care:manufacturing:career_thankyou:property-management:contact:careers:total-protection-guarantee:executive-team:philosophy:thankyou:food-beverage-processing:pharmaceutical:pct-feature-article:company-overview:hotel-motel-resort:industries-served:news-bedbug-elimination:application-form:solutions:fpa-welcomes-versacor:industries-overview:distribution:news:pest-elimination-guaranteed:flying-insect-elimination:restaurants:testimonials:ecoguard:educational:auditpro:managed-pest-solutions:current-job-openings"/>
+    <file name="index.css" crc="29103233" ref="index"/>
+    <file name="iefonts_index.css" crc="262530405" ref="index"/>
+    <file name="environmental-stewardship.css" crc="3929557274" ref="environmental-stewardship"/>
+    <file name="iefonts_environmental-stewardship.css" crc="428318503" ref="environmental-stewardship"/>
+    <file name="about.css" crc="408378127" ref="about"/>
+    <file name="iefonts_about.css" crc="3894138243" ref="about"/>
+    <file name="commercial-pest-management.css" crc="215241777" ref="commercial-pest-management"/>
+    <file name="iefonts_commercial-pest-management.css" crc="4215547045" ref="commercial-pest-management"/>
+    <file name="health-care.css" crc="75807841" ref="health-care"/>
+    <file name="iefonts_health-care.css" crc="3994515213" ref="health-care"/>
+    <file name="manufacturing.css" crc="3923434095" ref="manufacturing"/>
+    <file name="iefonts_manufacturing.css" crc="364494921" ref="manufacturing"/>
+    <file name="career_thankyou.css" crc="296044839" ref="career_thankyou"/>
+    <file name="iefonts_career_thankyou.css" crc="3974133993" ref="career_thankyou"/>
+    <file name="property-management.css" crc="3929625284" ref="property-management"/>
+    <file name="iefonts_property-management.css" crc="385613115" ref="property-management"/>
+    <file name="contact.css" crc="4011335879" ref="contact"/>
+    <file name="iefonts_contact.css" crc="4072511751" ref="contact"/>
+    <file name="careers.css" crc="3850183400" ref="careers"/>
+    <file name="iefonts_careers.css" crc="369230903" ref="careers"/>
+    <file name="total-protection-guarantee.css" crc="3968382658" ref="total-protection-guarantee"/>
+    <file name="iefonts_total-protection-guarantee.css" crc="152800620" ref="total-protection-guarantee"/>
+    <file name="executive-team.css" crc="4217070647" ref="executive-team"/>
+    <file name="iefonts_executive-team.css" crc="4087518034" ref="executive-team"/>
+    <file name="philosophy.css" crc="3940555507" ref="philosophy"/>
+    <file name="iefonts_philosophy.css" crc="4047213872" ref="philosophy"/>
+    <file name="thankyou.css" crc="3965535273" ref="thankyou"/>
+    <file name="iefonts_thankyou.css" crc="3998492951" ref="thankyou"/>
+    <file name="food-beverage-processing.css" crc="241650805" ref="food-beverage-processing"/>
+    <file name="iefonts_food-beverage-processing.css" crc="268513046" ref="food-beverage-processing"/>
+    <file name="pharmaceutical.css" crc="4214621793" ref="pharmaceutical"/>
+    <file name="iefonts_pharmaceutical.css" crc="3997402385" ref="pharmaceutical"/>
+    <file name="pct-feature-article.css" crc="3882949758" ref="pct-feature-article"/>
+    <file name="iefonts_pct-feature-article.css" crc="3796401481" ref="pct-feature-article"/>
+    <file name="company-overview.css" crc="4056948005" ref="company-overview"/>
+    <file name="iefonts_company-overview.css" crc="30454846" ref="company-overview"/>
+    <file name="hotel-motel-resort.css" crc="4244613117" ref="hotel-motel-resort"/>
+    <file name="iefonts_hotel-motel-resort.css" crc="50397678" ref="hotel-motel-resort"/>
+    <file name="industries-served.css" crc="128328003" ref="industries-served"/>
+    <file name="iefonts_industries-served.css" crc="3894138243" ref="industries-served"/>
+    <file name="news-bedbug-elimination.css" crc="166311217" ref="news-bedbug-elimination"/>
+    <file name="iefonts_news-bedbug-elimination.css" crc="3830855844" ref="news-bedbug-elimination"/>
+    <file name="application-form.css" crc="523660201" ref="application-form"/>
+    <file name="iefonts_application-form.css" crc="348786605" ref="application-form"/>
+    <file name="solutions.css" crc="128328003" ref="solutions"/>
+    <file name="iefonts_solutions.css" crc="3894138243" ref="solutions"/>
+    <file name="fpa-welcomes-versacor.css" crc="3856368357" ref="fpa-welcomes-versacor"/>
+    <file name="iefonts_fpa-welcomes-versacor.css" crc="443187604" ref="fpa-welcomes-versacor"/>
+    <file name="industries-overview.css" crc="75661768" ref="industries-overview"/>
+    <file name="iefonts_industries-overview.css" crc="4012441741" ref="industries-overview"/>
+    <file name="distribution.css" crc="14076853" ref="distribution"/>
+    <file name="iefonts_distribution.css" crc="178351573" ref="distribution"/>
+    <file name="news.css" crc="128328003" ref="news"/>
+    <file name="iefonts_news.css" crc="3894138243" ref="news"/>
+    <file name="pest-elimination-guaranteed.css" crc="295007889" ref="pest-elimination-guaranteed"/>
+    <file name="iefonts_pest-elimination-guaranteed.css" crc="4274513254" ref="pest-elimination-guaranteed"/>
+    <file name="flying-insect-elimination.css" crc="343951074" ref="flying-insect-elimination"/>
+    <file name="iefonts_flying-insect-elimination.css" crc="3816259361" ref="flying-insect-elimination"/>
+    <file name="restaurants.css" crc="468509804" ref="restaurants"/>
+    <file name="iefonts_restaurants.css" crc="444734574" ref="restaurants"/>
+    <file name="testimonials.css" crc="4267676840" ref="testimonials"/>
+    <file name="iefonts_testimonials.css" crc="3894138243" ref="testimonials"/>
+    <file name="ecoguard.css" crc="3889297647" ref="ecoguard"/>
+    <file name="iefonts_ecoguard.css" crc="4000910697" ref="ecoguard"/>
+    <file name="educational.css" crc="4214694723" ref="educational"/>
+    <file name="iefonts_educational.css" crc="117634794" ref="educational"/>
+    <file name="auditpro.css" crc="316438966" ref="auditpro"/>
+    <file name="iefonts_auditpro.css" crc="164465925" ref="auditpro"/>
+    <file name="managed-pest-solutions.css" crc="3952233640" ref="managed-pest-solutions"/>
+    <file name="iefonts_managed-pest-solutions.css" crc="92759592" ref="managed-pest-solutions"/>
+    <file name="current-job-openings.css" crc="320800443" ref="current-job-openings"/>
+    <file name="iefonts_current-job-openings.css" crc="3998343116" ref="current-job-openings"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="196614522" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="museutils.js" crc="275725342" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="pie.js" crc="3827607177" ref="index:contact:careers:executive-team:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:industries-overview:thankyou"/>
+    <file name="jquery.watch.js" crc="3999102769" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="jquery.musemenu.js" crc="4042164668" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="webpro.js" crc="3883484123" ref="index:testimonials"/>
+    <file name="musewpslideshow.js" crc="360574455" ref="index:testimonials"/>
+    <file name="jquery.museoverlay.js" crc="342093292" ref="index:testimonials"/>
+    <file name="touchswipe.js" crc="4218319045" ref="index:testimonials"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="185257658" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+  </folder>
+  <folder name="images">
+    <file name="facebook-savage.png" crc="388291631" seo="true" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="twitter-savage.png" crc="4084513516" seo="true" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="versacor-dropdown-arrow.png" crc="3958768003" ref="index"/>
+    <file name="versacor-managedpestsolutions-logo.png" crc="4128585501" seo="true" ref="index:about:industries-served:contact:solutions:careers:company-overview:philosophy:executive-team:environmental-stewardship:commercial-pest-management:health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:managed-pest-solutions:auditpro:ecoguard:industries-overview:current-job-openings:application-form:news:pct-feature-article:news-bedbug-elimination:career_thankyou:thankyou:testimonials:fpa-welcomes-versacor:total-protection-guarantee:flying-insect-elimination"/>
+    <file name="versacor-slide01-dedicated-960x345-67ec01c1e0.jpg" crc="4126407633" seo="true" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:testimonials"/>
+    <file name="versacor-slide02-leaf-960x345-99c55668c1.jpg" crc="459859640" seo="true" ref="index"/>
+    <file name="versacor-slide3-sqf-960x345.jpg" crc="4190676672" seo="true" ref="index"/>
+    <file name="versacor-slide5-leed-960x345.jpg" crc="4222027350" seo="true" ref="index"/>
+    <file name="versacor-slide06-solutionssensitive-960x345-ca5d0a0c2c.jpg" crc="4239835130" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index:testimonials"/>
+    <file name="healthcare_100x100.png" crc="3970027280" ref="index"/>
+    <file name="foodbeverage_100x100.jpg" crc="3814209574" ref="index"/>
+    <file name="production_100x100.png" crc="274595728" ref="index"/>
+    <file name="hotel_100x100.png" crc="4045322130" ref="index"/>
+    <file name="restaurant_100x100.png" crc="3969333184" ref="index"/>
+    <file name="commercial_100x100.png" crc="4175027144" ref="index"/>
+    <file name="education_100x100.png" crc="41928043" ref="index"/>
+    <file name="pharmaceutical_100x100.jpg" crc="4263415240" ref="index"/>
+    <file name="manufacturing_100x100.jpg" crc="398925072" ref="index"/>
+    <file name="versacor-left-arrow.png" crc="3768539235" ref="index"/>
+    <file name="versacor-right-arrow.png" crc="3893878450" ref="index"/>
+    <file name="pasted image 175x50.png" crc="76297916" seo="true" ref="index"/>
+    <file name="pasted image 169x50.png" crc="4018072703" seo="true" ref="index"/>
+    <file name="pasted image 277x50.png" crc="4049311663" seo="true" ref="index"/>
+    <file name="pasted image 250x376-crop-u6274.jpg" crc="26425880" ref="company-overview"/>
+    <file name="pasted image 145x200.jpg" crc="302075519" seo="true" ref="executive-team"/>
+    <file name="pasted image 145x2002.jpg" crc="3759637841" seo="true" ref="executive-team"/>
+    <file name="pasted image 145x2003.jpg" crc="197222648" seo="true" ref="executive-team"/>
+    <file name="pasted image 145x2004.jpg" crc="156334091" seo="true" ref="executive-team"/>
+    <file name="healthcare_590x300.jpg" crc="3842474820" seo="true" ref="health-care"/>
+    <file name="pasted image 216x150.png" crc="4127334569" seo="true" ref="health-care:food-beverage-processing:distribution:restaurants:property-management:educational:pharmaceutical:manufacturing:hotel-motel-resort:pest-elimination-guaranteed:industries-overview:news-bedbug-elimination"/>
+    <file name="pasted image 590x300.jpg" crc="3887354456" seo="true" ref="food-beverage-processing"/>
+    <file name="pasted image 590x3002.jpg" crc="65222729" seo="true" ref="distribution"/>
+    <file name="versacor-pest-elimination-restaurants-590x300.jpg" crc="229974128" seo="true" ref="restaurants"/>
+    <file name="versacor-pest-commercial-hotels-590x300.jpg" crc="32250961" seo="true" ref="property-management"/>
+    <file name="pasted image 590x3003.jpg" crc="165601220" seo="true" ref="educational"/>
+    <file name="pasted image 590x3004.jpg" crc="316219074" seo="true" ref="pharmaceutical"/>
+    <file name="pasted image 590x3005.jpg" crc="96947461" seo="true" ref="manufacturing"/>
+    <file name="versacor-pest-elimination-hotels-590x300.jpg" crc="532330971" seo="true" ref="hotel-motel-resort"/>
+    <file name="pasted image 150x144.jpg" crc="3759608646" seo="true" ref="pest-elimination-guaranteed"/>
+    <file name="pasted image 150x110.jpg" crc="433882358" seo="true" ref="pest-elimination-guaranteed"/>
+    <file name="pasted image 620x300.png" crc="3856094998" seo="true" ref="managed-pest-solutions"/>
+    <file name="pasted image 175x152.png" crc="322775911" seo="true" ref="auditpro"/>
+    <file name="pasted image 620x300.jpg" crc="4135431901" seo="true" ref="industries-overview"/>
+    <file name="pct0613_pg30.jpg" crc="3980580525" seo="true" ref="pct-feature-article"/>
+    <file name="versacor recommendation letter.jpg" crc="4068534404" seo="true" ref="testimonials"/>
+    <file name="brothers produce ref letter 11-8-13-2.jpg" crc="85319132" seo="true" ref="testimonials"/>
+    <file name="capharbor ref letter- richard- 1-19-12.jpg" crc="4002093441" seo="true" ref="testimonials"/>
+    <file name="ea sween co 10-1-09.jpg" crc="3806664362" seo="true" ref="testimonials"/>
+    <file name="bone daddy-s dallas ref letter 4-8-10-2.jpg" crc="454121124" seo="true" ref="testimonials"/>
+    <file name="crescent ref letter (leed) 3-8-12-3.jpg" crc="3939666416" seo="true" ref="testimonials"/>
+    <file name="hilton palacio 4-23-10.jpg" crc="178139779" seo="true" ref="testimonials"/>
+    <file name="legend properties ref letter 3-19-13-5.jpg" crc="430256071" seo="true" ref="testimonials"/>
+    <file name="global real estate services (pepsico) 3-11-3.jpg" crc="4258303891" seo="true" ref="testimonials"/>
+    <file name="henry s miller 5-11-2.jpg" crc="4237766599" seo="true" ref="testimonials"/>
+    <file name="hard eight bbq 10-09.jpg" crc="122898640" seo="true" ref="testimonials"/>
+    <file name="arbrook reference 10-09.jpg" crc="4011070433" seo="true" ref="testimonials"/>
+    <file name="versacor recommendation letter96x125.jpg" crc="397563597" seo="true" ref="testimonials"/>
+    <file name="brothers produce ref letter 11-8-13-296x125.jpg" crc="3999054829" seo="true" ref="testimonials"/>
+    <file name="capharbor ref letter- richard- 1-19-1296x126.jpg" crc="4048548758" seo="true" ref="testimonials"/>
+    <file name="ea sween co 10-1-0997x124.jpg" crc="3838531262" seo="true" ref="testimonials"/>
+    <file name="bone daddy-s dallas ref letter 4-8-10-296x125.jpg" crc="4163576091" seo="true" ref="testimonials"/>
+    <file name="crescent ref letter (leed) 3-8-12-396x125.jpg" crc="4102728679" seo="true" ref="testimonials"/>
+    <file name="hilton palacio 4-23-1098x124.jpg" crc="394667804" seo="true" ref="testimonials"/>
+    <file name="legend properties ref letter 3-19-13-596x125.jpg" crc="4061247602" seo="true" ref="testimonials"/>
+    <file name="global real estate services (pepsico) 3-11-396x125.jpg" crc="3907654297" seo="true" ref="testimonials"/>
+    <file name="henry s miller 5-11-296x125.jpg" crc="388027032" seo="true" ref="testimonials"/>
+    <file name="hard eight bbq 10-0996x125.jpg" crc="4263571468" seo="true" ref="testimonials"/>
+    <file name="arbrook reference 10-0996x125.jpg" crc="116438831" seo="true" ref="testimonials"/>
+    <file name="screen shot 2014-11-30 at 12906 pm.jpg" crc="3919473318" seo="true" ref="flying-insect-elimination"/>
+  </folder>
+  <file name="index.html" crc="4141474951" mt="1448981860072" redirect="true" seo="true"/>
+  <file name="about.html" crc="4093223142" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="industries-served.html" crc="3872746721" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="contact.html" crc="533908200" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="solutions.html" crc="4095385357" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="careers.html" crc="3974638594" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="company-overview.html" crc="163586549" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="philosophy.html" crc="483334970" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="executive-team.html" crc="453684711" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="environmental-stewardship.html" crc="3863895963" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="commercial-pest-management.html" crc="3875972218" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="health-care.html" crc="458611022" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="food-beverage-processing.html" crc="365830840" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="distribution.html" crc="417839846" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="restaurants.html" crc="3812293365" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="property-management.html" crc="283124080" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="educational.html" crc="3912129533" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="pharmaceutical.html" crc="372957196" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="manufacturing.html" crc="3990203994" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="hotel-motel-resort.html" crc="3771917424" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="pest-elimination-guaranteed.html" crc="293682257" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="managed-pest-solutions.html" crc="3912033445" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="auditpro.html" crc="222220598" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="ecoguard.html" crc="4139499231" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="industries-overview.html" crc="284410887" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="current-job-openings.html" crc="370219635" seo="true" mt="1448981975414" redirect="true"/>
+  <file name="application-form.html" crc="156992335" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="news.html" crc="205812724" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="pct-feature-article.html" crc="95240766" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="news-bedbug-elimination.html" crc="3956052668" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="career_thankyou.html" crc="40569490" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="thankyou.html" crc="3864253829" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="testimonials.html" crc="123193731" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="fpa-welcomes-versacor.html" crc="98831065" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="total-protection-guarantee.html" crc="3875086546" seo="true" mt="1448981860072" redirect="true"/>
+  <file name="flying-insect-elimination.html" crc="4086811467" seo="true" mt="1448981860072" redirect="true"/>
+</manifest>
